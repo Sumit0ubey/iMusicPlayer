@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">iMusicPlayer</string>
+    <string name="mainimagedescription">Main Music Player Image, its a background less image having music image in it with black border</string>
+    <string name="CurrentMusicName">Name Of Music - Artist name</string>
+    <string name="pause">||</string>
+    <string name="play">O</string>
+    <string name="next">&gt;</string>
+    <string name="prev">&lt;</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Menu">Menu</string>
+    <string name="List">Music list</string>
+
+    <string name="aboutApp">A sleek music player to enjoy your favorite tracks anytime—online or offline</string>
+    <string name="developer">Developer: Sumit Dubey</string>
+    <string name="greeting">Thanks for choosing iMusic Player </string>
+
+    <string name="home_icon_desc">Home</string>
+    <string name="local_music_icon_desc">Local Music</string>
+    <string name="online_music_icon_desc">Online Music</string>
+    <string name="download_icon_desc">Download Music</string>
+    <string name="setting_icon_desc">Settings</string>
+    <string name="more_app_icon_desc">More Apps</string>
+
+    <string name="fontLabel">Font Family </string>
+    <string name="currentFont">Roboto</string>
+
+    <string name="themeLabel">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+    <string name="footer">iMusic Player - (By Sumit Dubey)</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="foot">– brought to you by the developers!</string>
+    <string name="reset_settings">Reset Settings</string>
+    <string name="apply_changes">Apply changes</string>
+    <string name="saveOrNot">Do you want to save the changes?</string>
+    <string name="app_info_label">App Info</string>
+    <string name="app_info_icon">app_info_icon</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacy_icon">privacy_icon</string>
+    <string name="text_color_label">Text Color</string>
+</resources>
