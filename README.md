@@ -104,7 +104,7 @@ If you find a bug or want to improve the app:
 ---
 
 > 📌 **Disclaimer:**  
-> This project is intended for **educational purposes only**. All content, including code and assets, is shared to help developers learn and grow. Any resemblance to other apps, icons, or designs is purely coincidental. Please do not use this project for commercial purposes without proper permissions.
+> This project is intended for **educational purposes only**. All content, including code and assets, is shared to help student/developers learn and grow. Any resemblance to other apps, icons, or designs is purely coincidental. Please do not use this project for commercial purposes without proper permissions.
 
 ---
 
